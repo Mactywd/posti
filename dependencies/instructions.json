@@ -1,0 +1,10 @@
+{
+    "ISTRUZIONI": {
+        "COMANDI": [
+            "ESC: Per passare alla schermata precedente",
+            "SPAZIO: Per far partire/fermare lo scambio automatico di banchi",
+            "MOUSE SINISTRO: Per scambiare manualmente due posti"
+        ],
+        "COME INIZIARE": ["Premi sul tasto INIZIA e premi SPAZIO per fermare lo scambio", "automatico dei posti"]
+    }
+}
